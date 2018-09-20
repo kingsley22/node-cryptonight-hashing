@@ -1,7 +1,7 @@
 {
-    "name": "cryptonight-hashing",
+    "name": "multi-hashing",
     "version": "3.0.0",
-    "main": "cryptonight-hashing",
+    "main": "multi-hashing",
     "author": {
         "name": "Multiple",
         "email": "Check The Git Repo"
@@ -9,7 +9,7 @@
     "license": "GPL-3.0-or-later",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MoneroOcean/node-cryptonight-hashing.git"
+        "url": "https://github.com/kingsley22/node-cryptonight-hashing.git"
     },
     "dependencies": {
         "bindings": "*",
